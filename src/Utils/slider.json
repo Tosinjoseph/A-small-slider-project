@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Aliva Priva Jardin ",
+      "work": "UI/UX Engineer",
+      "detail": "'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a' ",
+      "image": "./image-tanya.jpg"
+    },
+    {
+      "name": "Asatti Garden City ",
+      "work": "Web Developer",
+      "detail": "'Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a'",
+      "image": "./image-john.jpg"
+    }
+    ]
