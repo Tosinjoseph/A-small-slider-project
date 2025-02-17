@@ -53,6 +53,7 @@
     gap: 6px;
     margin-bottom: 10px;
    z-index: 10;
+   margin: auto;
    
     
 }
@@ -99,6 +100,6 @@ border-radius: 10px;
 }
 .h-right img{
     width:90%;
-    
+
 }
 }

@@ -1,7 +1,7 @@
 import './Hero.css'
 import { Swiper, SwiperSlide, useSwiper } from 'swiper/react';
 import 'swiper/css';
-import data from '../../utils/slider.json'
+import data from "/src/utils/slider.json"
 import React from 'react'
 
 const Hero = () => {
@@ -50,7 +50,7 @@ export default Hero
 const SliderButtons =()=>{
     const swiper= useSwiper()
     return(
-        <div className="h-buttons flexCenter">
+        <div className="h-buttons">
             <button onClick={()=>swiper.slidePrev()}>&lt;</button>
             <button onClick={()=>swiper.slideNext()}>&gt;</button>
         </div>
